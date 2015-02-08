@@ -1,5 +1,8 @@
 # vinyl-tree
-A 2-color vinyl tree stencil to stick on your wall
+A vinyl tree stencil to stick on your wall.
+
+[![final tree on the wall](https://raw.githubusercontent.com/solarkennedy/vinyl-tree/master/tree.jpg)](https://raw.githubusercontent.com/solarkennedy/vinyl-tree/master/tree.jpg)
+
 
 ## Instructions
 
